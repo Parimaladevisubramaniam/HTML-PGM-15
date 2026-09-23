@@ -1,7 +1,7 @@
 Nested HTML Lists
 Aim
 
-Create an HTML page demonstrating the use of nested ordered and unordered lists.
+Create an HTML page to code nested  lists.
 
 Task
 
